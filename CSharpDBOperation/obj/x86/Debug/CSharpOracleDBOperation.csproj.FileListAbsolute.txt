@@ -1,0 +1,8 @@
+F:\C# Source Code\OracleCSharpDBOperation\OracleCSharpDBOperation\CSharpDBOperation\bin\x86\Debug\CSharpOracleDBOperation.exe
+F:\C# Source Code\OracleCSharpDBOperation\OracleCSharpDBOperation\CSharpDBOperation\bin\x86\Debug\CSharpOracleDBOperation.pdb
+F:\C# Source Code\OracleCSharpDBOperation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.frmHome.resources
+F:\C# Source Code\OracleCSharpDBOperation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.frmLogin.resources
+F:\C# Source Code\OracleCSharpDBOperation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpDBOperation.Properties.Resources.resources
+F:\C# Source Code\OracleCSharpDBOperation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpOracleDBOperation.csproj.GenerateResource.Cache
+F:\C# Source Code\OracleCSharpDBOperation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpOracleDBOperation.exe
+F:\C# Source Code\OracleCSharpDBOperation\OracleCSharpDBOperation\CSharpDBOperation\obj\x86\Debug\CSharpOracleDBOperation.pdb
